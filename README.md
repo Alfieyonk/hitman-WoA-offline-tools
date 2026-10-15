@@ -1,5 +1,5 @@
 # hitman-WoA-offline-tools
-1. folder containg everything needed for a fully offline version of hitman woa (must own it on steam or atleast the free demo)
+1. folder containg everything needed for a fully offline version of hitman woa (DOES NOT INCLUDE GAME FILES REQUIRED TO RUN must own it on steam or atleast the free demo)
 2. it may get flagged in av but it is safe. if you dont trust it you may use your own version of steamclientcloader_x64. (grab from here https://mr_goldberg.gitlab.io/goldberg_emulator/
 3. Insturctions: Simply drag and drop all folder into your games root folder (where LAUNCHER.exe is)
 4. optionally create a shortcut for the included launcher.bat to automatically run peacock and launch the game at the same time
